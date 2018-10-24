@@ -2,4 +2,4 @@
 
 ## Serveur
 
-- Vérifier que les fichiers composer.json, README, LICENSE ne soient pas accessibles en PRODUCTION
+- Vérifier que les fichiers inutiles comme angular.json, package.json, composer.json, README.md, LICENSE, .gitignore n'existe pas en production.
